@@ -36,6 +36,10 @@ $ hadoop jar share/bigdata-learning-0.0.1.jar example.mapreduce.WordCount /words
 
 TODO
 
+## ssh连接配置
+
+已安装ssh-server，配置部分可以参考 [Docker 容器里安装ssh和连接ssh](https://blog.csdn.net/weixin_45722313/article/details/121117394)
+
 ## Web UI 汇总
 
 | Web UI                      | 默认网址                   | 备注                                   |
