@@ -23,6 +23,7 @@ services:
       - '8042:8042'
       - '9870:9870'
       - '19888:19888'
+      - '77:77'
   spark-worker-1:
     image: s1mplecc/spark-hadoop:3
     hostname: worker1
